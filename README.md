@@ -25,7 +25,11 @@ An AI-powered smart feedback system that collects, analyzes, and visualizes stud
 4. Access the app at `localhost:5000`
 
 ## 📸 Screenshots
-(Add 2–3 screenshots of your app here)
+![image](https://github.com/user-attachments/assets/65afbfb7-2377-440e-8812-f88855e8f7f2)
+![image](https://github.com/user-attachments/assets/a1f318f7-48c0-48e4-bc25-d415b4926d59)
+![image](https://github.com/user-attachments/assets/3b7ef37f-f61b-4da5-99f3-f4eddf2cad76)
+![image](https://github.com/user-attachments/assets/4662c753-310f-447e-b125-3ab26f7b868f)
+
 
 ## 📬 Contact
 **Jamimma Kallem**  
